@@ -1,7 +1,7 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: [ic-04 GitHub Page](https://ds4200-s22.github.io/ic-04-rachaeltc/)
 
 ## Purpose
 
